@@ -1,0 +1,8 @@
+.home_page{
+    min-height: calc(100vh - 100px);
+    padding: 20px;
+}
+.home_page h2{
+    font-size: 2rem;
+    margin: 10px 0;
+}
